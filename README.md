@@ -34,12 +34,3 @@ main.py
 ## API Key
 
 This app uses the [OpenWeatherMap API](https://openweathermap.org/api).
-Replace the `api_key` variable in the code with your own API key:
-
-```python
-api_key = "YOUR_API_KEY_HERE"
-```
-
----
-
-```
